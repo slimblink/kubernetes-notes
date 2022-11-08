@@ -1,5 +1,5 @@
 
-# Landmark Technologies == Kubernetes Dasboard (UI)
+# DACGlobalTech == Kubernetes Dasboard (UI)
 # Managing Kubernetes resources from the UI
 - 
 
